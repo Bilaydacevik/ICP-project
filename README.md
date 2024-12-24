@@ -28,6 +28,26 @@ Through my Medium blog, I have shared insights and knowledge gained from platfor
 - **Phone Book Application**: Developed an application to store user names and phone numbers in a phone book.
 - **Message History Application**: Designed a structure to record and query users' message histories.
 
+## Code Explanation:
+The main goal of this code is to manage user phone book entries and message histories as key-value pairs using HashMap data structures.
+
+# HashMap Usage:
+
+phoneBook: A HashMap that stores user contact information where the key is a Name (representing a user's name) and the value is an Entry (containing a user's description and phone number).
+MessageHistory: A HashMap that stores message histories, where the key is the Phone (representing a user's phone number) and the value is a Message (containing the receiver and message content).
+
+# Data Structures:
+Name: Represents a user's name as text.
+Phone: Represents a user's phone number as text.
+Entry: A structure containing a user's description and phone number.
+Message: A structure representing a message with the receiver and message content.
+
+# Functions:
+insert(name: Name, entry: Entry): Adds a new entry to the phone book.
+sendMessage(senderPhone: Phone, message: Message): Stores a new message in the message history.
+getPhone(name: Name): Retrieves the entry for a given name, or null if not found.
+getMessage(senderPhone: Phone): Retrieves the message history for a given phone number, or null if not found.
+
 ## Interests
 
 - **Web 3.0 and Blockchain Technologies**: I aim to enhance my knowledge and skills in this domain.
