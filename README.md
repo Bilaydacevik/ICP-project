@@ -32,7 +32,12 @@ Through my Medium blog, I have shared insights and knowledge gained from platfor
 
 ## Internship Goals
 
-During this Web 3.0 Patika Internship Program, I aim to further develop my knowledge and skills in blockchain technologies and the Web 3.0 ecosystem. This project was collaboratively developed with **Yusuf Utkurak**.
+During this Web 3.0 Patika Internship Program, I aim to further develop my knowledge and skills in blockchain technologies and the Web 3.0 ecosystem. 
+
+
+
+
+--This project was collaboratively developed with **Yusuf Utkurak**.
 
 
 
