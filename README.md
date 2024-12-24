@@ -8,7 +8,7 @@
 Hello, I am Büşra İlayda Çevik Köken. I hold a master's degree in Linguistics and Literature from Hacettepe University. Currently, I am pursuing an associate degree in Computer Programming. I aim to enhance my knowledge and skills in Web 3.0 and blockchain technologies. I also have a keen interest in software testing processes.
 
 Through my Medium blog, I have shared insights and knowledge gained from platforms like Rise In and other educational resources related to Web 3.0 fundamentals. My research and exploration in this field have allowed me to deepen my understanding of blockchain technologies and the Web 3.0 ecosystem. 
-- **Medium Profile**: ![Medium Icon](https://cdn.jsdelivr.net/gh/bilaydacevik/pic/play-button_1142354.png | width=16 height=16) [My Medium](https://medium.com/@bilaydacevik)
+- **Medium Profile**: [My Medium](https://medium.com/@bilaydacevik)
 
 ## Technologies and Tools Used
 
