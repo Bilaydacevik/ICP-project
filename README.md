@@ -9,8 +9,8 @@ Hello, I am Büşra İlayda Çevik Köken. I hold a master's degree in Linguisti
 
 ## Technologies and Tools Used
 
-- **Motoko** ![Motoko Icon]() : This project was developed using the Motoko programming language, focusing on fundamental data structures and asynchronous operations.
-- **HashMap** ![HashMap Icon](https://img.icons8.com/ios/24/000000/hash-map.png) : A HashMap data structure was utilized for storing data like phone books and message histories.
+- **Motoko** ![Motoko Icon](https://github.com/Bilaydacevik/pic/blob/main/58923d00-c035-11ea-9e9b-d58c94de5cff%20(1).png?raw=true) : This project was developed using the Motoko programming language, focusing on fundamental data structures and asynchronous operations.
+- **HashMap**: A HashMap data structure was utilized for storing data like phone books and message histories.
 - **Text** ![Text Icon](https://github.com/Bilaydacevik/pic/blob/main/text%20(1).png?raw=true) : Used for processing and comparing textual data.
 - **Asynchronous Programming (async)** ![Async Icon](https://github.com/Bilaydacevik/pic/blob/main/play-button_1142354%20(3).png?raw=true)
  : Employed for managing long-running operations such as database interactions and API calls.
