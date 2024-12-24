@@ -1,30 +1,31 @@
-# ICP-project
+# ICP-Project
 
-# Büşra İlayda Çevik Köken - Web 3.0 Patika Staj Programı
+# Büşra İlayda Çevik Köken - Web 3.0 Patika Staj Program
 
-## Hakkımda
+## About Me
 
-Merhaba, ben Büşra İlayda Çevik Köken. Hacettepe Üniversitesi'nden Dil ve Edebiyat alanında yüksek lisans derecesine sahibim. Şu an Bilgisayar Programcılığı önlisans programında eğitimime devam ediyorum. Web 3.0 ve blokzincir teknolojileri üzerine çalışmalar yapmak ve bu alanda kendimi geliştirmek istiyorum. Ayrıca, yazılım test süreçlerine ilgi duyuyorum. 
+Hello, I am Büşra İlayda Çevik Köken. I hold a master's degree in Linguistics and Literature from Hacettepe University. Currently, I am pursuing an associate degree in Computer Programming. I aim to enhance my knowledge and skills in Web 3.0 and blockchain technologies. I also have a keen interest in software testing processes.
 
-## Kullanılan Teknolojiler ve Araçlar
+## Technologies and Tools Used
 
-- **Motoko**: Motoko programlama dili kullanılarak geliştirdiğim bu projede, temel veri yapıları ve asenkron işlemler gerçekleştirildi.
-- **HashMap**: Telefon rehberi ve mesaj geçmişi gibi verilerin depolanması için HashMap veri yapısı tercih edildi.
-- **Text**: Metinsel verilerin işlenmesi ve karşılaştırılmasında kullanıldı.
-- **Asenkron Programlama (async)**: Veritabanı işlemleri ve API çağrıları gibi uzun süreli işlemleri yönetmek için asenkron programlama kullanıldı.
-  
+- **Motoko**: This project was developed using the Motoko programming language, focusing on fundamental data structures and asynchronous operations.
+- **HashMap**: A HashMap data structure was utilized for storing data like phone books and message histories.
+- **Text**: Used for processing and comparing textual data.
+- **Asynchronous Programming (async)**: Employed for managing long-running operations such as database interactions and API calls.
 
-## Projeler
-- **Telefon Rehberi Uygulaması**: Kullanıcıların isim ve telefon numarası ile kayıtlı rehber bilgilerinin tutulduğu bir uygulama geliştirdim.
-- **Mesajlaşma Geçmişi Uygulaması**: Kullanıcıların mesaj geçmişlerini kayıt altına alan ve sorgulama işlemlerini gerçekleştiren bir yapı tasarladım.
--
+## Projects
 
-## İlgi Alanları
+- **Phone Book Application**: Developed an application to store user names and phone numbers in a phone book.
+- **Message History Application**: Designed a structure to record and query users' message histories.
 
-- **Web 3.0 ve Blokzincir Teknolojileri**: Bu alanda bilgi ve becerilerimi geliştirmek istiyorum.
-- **Yazılım Test ve Otomasyonu**: Test süreçleri ve otomasyon araçları üzerine ilgim var.
-  
+## Interests
 
-## Staj Hedeflerim
+- **Web 3.0 and Blockchain Technologies**: I aim to enhance my knowledge and skills in this domain.
+- **Software Testing and Automation**: I am passionate about test processes and automation tools.
 
-Bu Web 3.0 Patika Staj Programı sürecinde, blokzincir teknolojileri ve Web 3.0 ekosistemine dair bilgi ve becerilerimi geliştirmeyi hedefliyorum. 
+## Internship Goals
+
+During this Web 3.0 Patika Internship Program, I aim to further develop my knowledge and skills in blockchain technologies and the Web 3.0 ecosystem. This project was collaboratively developed with **Yusuf Utkurak**.
+
+
+
