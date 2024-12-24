@@ -19,6 +19,9 @@ Through my Medium blog, I have shared insights and knowledge gained from platfor
  : Employed for managing long-running operations such as database interactions and API calls.
 
 
+** The reason for tagging HashMap, Text etc. under the "Technologies Used" section is to demonstrate how these structures were applied in the project and the purpose they served. **
+
+
 
 ## Projects
 
